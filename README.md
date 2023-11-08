@@ -1,1 +1,4 @@
 # Taly
+
+*Alura
+*@valenguinha_
